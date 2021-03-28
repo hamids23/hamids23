@@ -1,7 +1,7 @@
 - 👋 Hi, I’m hamidsmit
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on AI powered 🤖
+- 💞️ I’m looking to collaborate on AI powered 🤖s
 - 📫 hamids23atG💌dotcom
 
 <!---

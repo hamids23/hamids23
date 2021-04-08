@@ -1,6 +1,6 @@
-- 👋 Hi, I’m hamid smit
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m hamid smit B.S. in Electronic Engineering
+- 👀 I’m interested in Electronic Engineering, Programming, Algorithm Designing, AI (Deep learning, Computer Vision), AI powered Robots 
+- 🌱 I’m currently learning Python's TensorFlow lib. 
 - 💞️ I’m looking to collaborate on AI powered 🤖s
 - 📫 hamids23atG💌dotcom
 
